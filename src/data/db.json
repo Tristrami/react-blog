@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Can somebody help me to fix this coding problem?",
+      "datetime": "October 28, 2022 11:35:17 AM",
+      "body": "This problem has been confusing me for so long!!!!"
+    },
+    {
+      "id": 2,
+      "title": "The brand new Macbook pro released!",
+      "datetime": "August 26, 2022, 9:00:00 AM",
+      "body": "The brand new Macbook pro released this morning"
+    },
+    {
+      "id": 3,
+      "title": "Weather Today",
+      "datetime": "October 28, 2022 11:25:57 AM",
+      "body": "Today is very cloudy"
+    }
+  ]
+}
